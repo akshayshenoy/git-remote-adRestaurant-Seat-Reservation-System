@@ -1,1 +1,1 @@
-# git-remote-adRestaurant-Seat-Reservation-System
+Restaurant-Seat-Reservation-System
